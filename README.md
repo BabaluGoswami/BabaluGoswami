@@ -1,21 +1,34 @@
 Hi, I'm Babalu Kumar Bharti 👋
 
-Software Developer | AI/ML Student | Full-Stack Developer | Data Science Learner
+💻 Software Developer | 🤖 AI/ML Student | 🌐 Full-Stack Developer | 📊 Data Science Learner
 
-I’m a B.Tech CSE (Artificial Intelligence & Machine Learning) student passionate about building real-world software and exploring the intersection of Software Development, Artificial Intelligence, Machine Learning, and Data Science.
+B.Tech CSE (Artificial Intelligence & Machine Learning) Student passionate about building real-world software, exploring AI/ML, and turning ideas into practical solutions.
 
-I enjoy turning ideas into working products, solving problems through code, and continuously expanding my skills through hands-on projects, practical learning, and consistent problem solving.
+I enjoy building products, solving problems with code, learning new technologies, and continuously improving through hands-on projects and consistent practice.
 
-📊 Data Science
+---
 
-Currently expanding my knowledge in Data Science, with a focus on Data Analysis, Data Visualization, Statistics, Machine Learning, and working with real-world datasets.
+📊 Data Science Focus
 
-🚀 Currently Building & Learning
+Currently expanding my knowledge in Data Science through practical learning, with a focus on:
 
-- 💻 Software Development — React, Node.js, Express.js, MongoDB
-- 🤖 AI & Machine Learning — Python, NumPy, Pandas, Scikit-learn
-- 📊 Data Science — Data Analysis, Data Visualization, Statistics, Machine Learning & practical datasets
-- 🧠 DSA & Problem Solving — Consistent practice with Java across platforms such as LeetCode, GeeksforGeeks, and Coding Ninjas
-- 🛠️ Real-World Projects — Building applications that combine software, AI/ML, and practical problem-solving
+Data Analysis • Data Visualization • Statistics • Machine Learning • Real-World Datasets
+
+---
+
+🚀 What I'm Building & Learning
+
+Area| Focus
+💻 Software Development| React • Node.js • Express.js • MongoDB
+🤖 AI & Machine Learning| Python • NumPy • Pandas • Scikit-learn
+📊 Data Science| Data Analysis • Visualization • Statistics • ML
+🧠 DSA & Problem Solving| Java • Consistent practice • Problem-solving patterns
+🛠️ Real-World Projects| Full-Stack applications • AI/ML integrations
+
+🧠 DSA Journey
+
+Consistently practicing Data Structures & Algorithms with Java across platforms including LeetCode, GeeksforGeeks, and Coding Ninjas, with a focus on understanding patterns and improving problem-solving skills.
+
+---
 
 «Build real things. Solve real problems. Keep learning.»
