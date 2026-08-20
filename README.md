@@ -35,47 +35,175 @@ Consistently practicing Data Structures & Algorithms with Java across platforms 
 
 ---
 
+---
+
 🛠️ Tech Stack
 
-👨‍💻 Programming Languages
+💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" height="48" alt="Java Python JavaScript" />
-</p>🎨 Frontend Development
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br/>
+<b>Java</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
+<b>Python</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br/>
+<b>JavaScript</b>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="38"/><br/>
+<b>SQL</b>
+</td>
+</tr>
+</table>🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="48" alt="HTML CSS React Tailwind CSS" />
-</p>⚙️ Backend Development
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br/>
+<b>HTML5</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br/>
+<b>CSS3</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br/>
+<b>React</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>
+<b>Tailwind CSS</b>
+</td>
+</tr>
+</table>⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Node.js Express.js" />
-</p>🗄️ Database
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
+<b>Node.js</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br/>
+<b>Express.js</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=socketio" width="55"/><br/>
+<b>Socket.IO</b>
+</td>
+</tr>
+</table>🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
-</p>🤖 AI / ML & Data Science
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/>
+<b>MongoDB</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
+<b>MySQL</b>
+</td>
+</tr>
+</table>🤖 AI / ML & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
-</p><p>
-  <strong>NumPy</strong> &nbsp; • &nbsp;
-  <strong>Pandas</strong> &nbsp; • &nbsp;
-  <strong>Scikit-learn</strong> &nbsp; • &nbsp;
-  <strong>Data Analysis</strong> &nbsp; • &nbsp;
-  <strong>Data Visualization</strong>
-</p>🔌 APIs & Real-Time
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=numpy" width="55"/><br/>
+<b>NumPy</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=pandas" width="55"/><br/>
+<b>Pandas</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/><br/>
+<b>Scikit-learn</b>
+</td>
+<td align="center" width="150">
+📊<br/>
+<b>Data Analysis</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+📈<br/>
+<b>Data Visualization</b>
+</td>
+<td align="center" width="150">
+🧮<br/>
+<b>Statistics</b>
+</td>
+<td align="center" width="150">
+🤖<br/>
+<b>Machine Learning</b>
+</td>
+<td align="center" width="150">
+🐍<br/>
+<b>Python for ML</b>
+</td>
+</tr>
+</table>🔌 APIs & Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" />
-  &nbsp;&nbsp;
-  <strong>REST APIs</strong> &nbsp; • &nbsp;
-  <strong>Socket.IO</strong>
-</p>☁️ Services & Developer Tools
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br/>
+<b>Postman</b>
+</td>
+<td align="center" width="150">
+🌐<br/>
+<b>REST APIs</b>
+</td>
+<td align="center" width="150">
+⚡<br/>
+<b>Socket.IO</b>
+</td>
+</tr>
+</table>🧰 Tools & Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git GitHub VS Code" />
-</p><p>
-  <strong>Cloudinary</strong> &nbsp; • &nbsp;
-  <strong>JWT</strong> &nbsp; • &nbsp;
-  <strong>Zod</strong>
-</p>
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
+<b>Git</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
+<b>GitHub</b>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
+<b>VS Code</b>
+</td>
+<td align="center" width="150">
+☁️<br/>
+<b>Cloudinary</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+🔐<br/>
+<b>JWT</b>
+</td>
+<td align="center" width="150">
+🛡️<br/>
+<b>Zod</b>
+</td>
+<td align="center" width="150">
+📦<br/>
+<b>npm</b>
+</td>
+<td align="center" width="150">
+🔧<br/>
+<b>Developer Tools</b>
+</td>
+</tr>
+</table>---
