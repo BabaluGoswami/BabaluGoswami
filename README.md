@@ -32,3 +32,50 @@ Consistently practicing Data Structures & Algorithms with Java across platforms 
 ---
 
 «Build real things. Solve real problems. Keep learning.»
+
+---
+
+🛠️ Tech Stack
+
+👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" height="48" alt="Java Python JavaScript" />
+</p>🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="48" alt="HTML CSS React Tailwind CSS" />
+</p>⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Node.js Express.js" />
+</p>🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+</p>🤖 AI / ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+</p><p>
+  <strong>NumPy</strong> &nbsp; • &nbsp;
+  <strong>Pandas</strong> &nbsp; • &nbsp;
+  <strong>Scikit-learn</strong> &nbsp; • &nbsp;
+  <strong>Data Analysis</strong> &nbsp; • &nbsp;
+  <strong>Data Visualization</strong>
+</p>🔌 APIs & Real-Time
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" />
+  &nbsp;&nbsp;
+  <strong>REST APIs</strong> &nbsp; • &nbsp;
+  <strong>Socket.IO</strong>
+</p>☁️ Services & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git GitHub VS Code" />
+</p><p>
+  <strong>Cloudinary</strong> &nbsp; • &nbsp;
+  <strong>JWT</strong> &nbsp; • &nbsp;
+  <strong>Zod</strong>
+</p>
