@@ -1,4 +1,4 @@
-Hi, I'm Babalu Kumar Bharti 👋
+Hi, I'm Babalu Goswami 👋
 
 💻 Software Developer | 🤖 AI/ML Student | 🌐 Full-Stack Developer | 📊 Data Science Learner
 
